@@ -14,7 +14,7 @@ O teste consiste em montar uma aplicação que contemple as seguintes operaçõe
 - Git
 
 ## Instruções para Iniciar a Aplicação
-- Faça um clone do projeto 
+- Faça um clone do projeto na sua máquina:
   - **https://github.com/wyatabe/spring-boot-interview.git**
 - Utilizando o prompt do DOS ou o terminal do Linux navegue até a pasta do projeto e execute o comando: 
   - **$ mvnw spring-boot:run**
