@@ -20,5 +20,4 @@ O teste consiste em montar uma aplicação que contemple as seguintes operaçõe
   - **$ mvnw spring-boot:run**
 - Aguardar o processo inicialização da aplicação e abra o browser no endereço: 
   - **http://localhost:8080**
-- Será exibido a página do Swagger UI, que é utilizado na documentação e nos testes dos diversos endpoints da API.
-
+- Será exibido a página do Swagger UI, que foi utilizado na documentação e nos testes dos diversos endpoints da API.
